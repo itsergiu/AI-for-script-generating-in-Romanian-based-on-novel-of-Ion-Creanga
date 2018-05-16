@@ -1,4 +1,4 @@
-## AI for script generating in Romanian based on novel of Ion Creanga
+### AI for script generating in Romanian based on novel of Ion Creanga
 Code is adapted to convert diacritics to latin (unidecode)
 Script is generated at the given step (print_step)
 
