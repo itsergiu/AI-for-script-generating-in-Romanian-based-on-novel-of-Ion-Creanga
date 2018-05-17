@@ -7,5 +7,5 @@ AI in Marketing - Siraj Raval
 https://www.youtube.com/watch?v=FYMjXD3G__Y  
 https://github.com/llSourcell/AI_In_Marketing  
 
-The generated text is not coherent.  
+The generated script(novel) in Romanian is not coherent.  
 Question: What is necessary to make the code work for Romanian language or other latin language?
